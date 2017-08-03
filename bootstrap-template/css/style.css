@@ -1,0 +1,36 @@
+.jumbotron {
+    height: 600px;
+    background-image:url('../img/welcome-to-miami-beach.jpg');
+    background-size:cover;
+} 
+ 
+.jumbotron h1 {
+    color:#ff0066;
+}
+
+.jumbotron p {
+    color:#ff0066;
+}
+
+.navbar{
+    background-color: #BBDEF0;
+}
+
+.panel{
+    background-color: #BBDEF0;
+}
+
+ body{
+     background-color:#FFB6C1;
+ }
+ 
+ navbar{
+     background-color:blue;
+     border-color: #FF7733;
+ }
+ .panel-body{
+     background-color:#33FF57;
+ }
+ .panel-default> .panel-heading{
+     background-color:#e6ec85;
+ }
